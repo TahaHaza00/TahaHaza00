@@ -1,7 +1,7 @@
-- # Hi, My name is Taha Haza ¯\_(ツ)_/¯
-- # All I do is Code 😏
-- # I taught my-self how to code ヽ(◕ヮ◕ヽ)
-- # But I'm still working on how to teach myself to sleep 😪 
+Hello, 👋 My name is Taha and I am a self taught programmer.
+I like to create artificial intelligence, machine learning programs in my spare time.
+Recently I've been dipping my feet into creating Discord Bots.
+
 
 <!---
 TahaHaza00/TahaHaza00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
