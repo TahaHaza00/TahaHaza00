@@ -1,4 +1,4 @@
-Hello, 👋 My name is Taha and I am a self taught programmer.
+Hello, 👋  I am a self taught programmer.
 I like to create artificial intelligence, machine learning programs in my spare time.
 Recently I've been dipping my feet into creating Discord Bots.
 
