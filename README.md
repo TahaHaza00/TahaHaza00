@@ -1,6 +1,6 @@
 Hello, 👋  I am a self taught programmer.
-I like to create artificial intelligence, machine learning programs in my spare time.
-Recently I've been dipping my feet into creating Discord Bots.
+I like to create artificial intelligence and machine learning programs in my spare time.
+Recently I've been dipping my feet into creating Discord Bots and ethical hacking.
 
 
 <!---
